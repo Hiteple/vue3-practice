@@ -1,4 +1,4 @@
-# real-world-vue
+# real-world-vue, a course project by VueMastery :)
 
 ## Project setup
 ```
